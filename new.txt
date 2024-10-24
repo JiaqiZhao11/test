@@ -1,2 +1,6 @@
 ﻿the new branch has additional content
+<<<<<<< HEAD
 We want a merge conflict really bad
+=======
+we want a merge conflict
+>>>>>>> main
