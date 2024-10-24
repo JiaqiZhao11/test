@@ -1,1 +1,2 @@
 ﻿the new branch has additional content
+we want a merge conflict
